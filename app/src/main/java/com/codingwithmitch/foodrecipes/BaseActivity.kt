@@ -27,5 +27,4 @@ abstract class BaseActivity : AppCompatActivity() {
         mProgressBar.visibility = if (visible) View.VISIBLE else View.INVISIBLE
     }
 
-
 }
